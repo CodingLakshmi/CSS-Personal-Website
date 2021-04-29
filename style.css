@@ -1,0 +1,135 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p {
+  margin-bottom: 80px;
+}
+
+hr {
+  border-style: none;
+  border-top-style:dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+a {
+  color: #11999E;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.topContainer {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 200px;
+}
+
+.middleContainer {
+  background-color: pink ;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 200px;
+}
+
+.footer-link {
+  color: white;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 350px;
+  bottom: 450px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 485px;
+  top: 110px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.coding {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 5%;
+}
+
+.language {
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin-left: 5%;
+}
+
+.copyright {
+  color: #EAF6F6
+}
+
+.contact-me {
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
+
+.contact-button {
+  padding: 20px;
+  background-color: #a6e3e9;
+  border-radius: 5px;
+  border: none;
+  font-size: 18px;
+}
+
+.aTag {
+  color: white;
+}
+
+.contact-button:hover {
+  background-color: #66BFBF ;
+  text-decoration: underline;
+}
+
+.intro-description {
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
